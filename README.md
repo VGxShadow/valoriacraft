@@ -1,5 +1,5 @@
 # valoriacraft
-Tout ce qui est en rapport avec valoriacraft ;)
+Rich Presence Mod
 
 Étape 1 :
 
