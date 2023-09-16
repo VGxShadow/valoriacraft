@@ -1,4 +1,4 @@
-# valoriacraft
+# ValoriaCraft
 Rich Presence Mod
 
 Étape 1 :
